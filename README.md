@@ -3,7 +3,7 @@
 - 🔭 I recently finished my Master's Degree (MS in CIS)
 - ⚡  I’m currently learning: MERN Stack & AWS. 
 - 📫 To reach me: yaminimoturi@gmail.com
-- 📝 I <del>regulary</del> write articles on <a href="https://yaminimoturi.blogspot.com">my blog</a> 
+- 📝 I <del>regulary</del> write blogs on <a href="https://yaminimoturi.blogspot.com">my page</a> 
 - 🌱 I’m interested in: Plants, Paintings, Tech & gadgets.
 
 <h2>🚀 My SKills</h2>
