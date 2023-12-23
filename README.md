@@ -7,9 +7,6 @@
 - 🌱 I’m interested in: Plants, Paintings, Tech & gadgets.
 
 <h2>🚀 My SKills</h2>
-•	Languages: Java, J2EE, C, C++, Python, SQL, UML.
-•	Databases: MySQL, PostgreSQL, SQL Server (SSMS, DBeaver), MongoDB (Atlas).
-•	Web Development: HTML5, CSS, JavaScript, React, Node JS, Express JS.
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
