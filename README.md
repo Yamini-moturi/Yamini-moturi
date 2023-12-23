@@ -1,10 +1,10 @@
 <h2> Hi! 👋 I'am Yamini Moturi.</h2>
-- ✨ Pronouns: She/her
-- 🔭 I recently finished my Master's Degree (MS in CIS)
-- ⚡  I’m currently learning: MERN Stack & AWS. 
-- 📫 To reach me: yaminimoturi@gmail.com
-- 📝 I <del>regulary</del> write blogs on <a href="https://yaminimoturi.blogspot.com">my page</a> 
-- 🌱 I’m interested in: Plants, Paintings, Tech & gadgets.
+<li>✨ Pronouns: She/her </li>
+<li> 🔭 I recently finished my Master's Degree (MS in CIS)</li>
+<li> ⚡  I’m currently learning: MERN Stack & AWS.</li> 
+<li>📫 To reach me: yaminimoturi@gmail.com</li>
+<li>📝 I <del>regulary</del> write blogs on <a href="https://yaminimoturi.blogspot.com">my page</a> </li>
+<li>🌱 I’m interested in: Plants, Paintings, Tech & gadgets.</li>
 
 <h2>🚀 My SKills</h2>
 <p align="left">
